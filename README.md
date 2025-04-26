@@ -85,7 +85,7 @@ A comprehensive guide for AI Engineering Managers to optimize their daily workfl
 | Category | Tools |
 |----------|-------|
 | **Documentation** | Confluence, Notion, Docusaurus |
-| **Project Management** | Jira, Asana, Linear, GitHub Projects |
+| **Project Management** | Jira, Monday, Asana, Linear, GitHub Projects, Azure Board |
 | **Communication** | Slack, Teams, Discord |
 | **Knowledge Sharing** | Notion AI, Obsidian, GitBook |
 
